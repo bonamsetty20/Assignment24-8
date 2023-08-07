@@ -1,0 +1,11 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\bin\Debug\EmployeeLib.dll
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\bin\Debug\EmployeeLib.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CopyComplete
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date7-8\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
